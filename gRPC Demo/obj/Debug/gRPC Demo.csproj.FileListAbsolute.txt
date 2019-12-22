@@ -1,0 +1,1 @@
+c:\users\bas-1\documents\visual studio 2015\Projects\gRPC Demo\gRPC Demo\bin\Debug\gRPC Demo.exe.config

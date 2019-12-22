@@ -1,0 +1,41 @@
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\gRPC Server.exe.config
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\gRPC Server.exe
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\gRPC Server.pdb
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Google.Protobuf.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Buffers.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Memory.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Google.Protobuf.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.pdb
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Buffers.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Memory.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\obj\Debug\gRPC Server.csproj.CoreCompileInputs.cache
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\obj\Debug\gRPC Server.csproj.CopyComplete
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\obj\Debug\gRPC Server.exe
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\obj\Debug\gRPC Server.pdb
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\ErikEJ.SqlCe40.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\Salient.Data.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\bin\Debug\ErikEJ.SqlCe40.xml
+C:\Users\Bas-1\Documents\Visual Studio 2015\Projects\gRPC Demo\gRPC Server\obj\Debug\gRPC Server.csprojAssemblyReference.cache

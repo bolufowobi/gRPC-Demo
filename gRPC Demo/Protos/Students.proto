@@ -1,0 +1,41 @@
+﻿syntax = "proto3";
+
+option csharp_namespace ="gRPC_Server";
+
+service Students
+{
+	rpc GetStudentsInfo (StudentsLookupModel) returns (StudentsModel);
+
+	rpc GetAllStudentsInfo(StudentLookup) returns (stream StudentsModel);
+	
+	rpc DeleteAStudent(StudentsLookupModel) returns(stream StudentsModel);
+
+	rpc AddStudent(StudentsModel) returns (Result);
+}
+
+message StudentsLookupModel
+{
+	string matricNo = 1;
+
+}
+
+message StudentLookup
+{
+
+}
+
+message Result
+{
+	string prompt = 1;
+}
+
+message StudentsModel
+{
+	string name = 1;
+	string matricNo = 2;
+	string school = 3;
+	string bloodGroup = 4;
+	string programme = 5;
+	bytes profilePicture = 6;
+
+}
